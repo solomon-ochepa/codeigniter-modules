@@ -46,7 +46,7 @@ class ModuleModel extends BaseCommand
      *
      * @var string
      */
-    protected $example      = 'module:model Example Example';
+    protected $example      = 'module:model ExampleModel Example';
 
     /**
      * the Command's Arguments
