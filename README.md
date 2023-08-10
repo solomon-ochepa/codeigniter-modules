@@ -1,2 +1,2 @@
-# codeigniter-modules
+# CodeIgniter Modules
 CodeIgniter Modules Management
