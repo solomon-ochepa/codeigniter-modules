@@ -57,6 +57,7 @@ Usage: `module:migration [name] [module]`
 ```php
 php spark module:migration CreateExamplesTable Example
 ```
+
 ```php
 php spark module:migration create_examples_table Example
 ```
@@ -74,6 +75,7 @@ Usage: `module:seeder [name] [module]`
 ```php
 php spark module:seeder Example Example
 ```
+
 ```php
 php spark module:seeder ExampleSeeder Example
 ```
@@ -84,6 +86,7 @@ Usage: `module:seed [module] [seeder]`
 ```php
 php spark module:seed Example
 ```
+
 ```php
 php spark module:seed Example ExampleSeeder
 ```
